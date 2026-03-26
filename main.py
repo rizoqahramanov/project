@@ -1,3 +1,4 @@
 a = 2
 b = 4
-print(a+b)
+print("javob", a+b )
+print(type(a))
